@@ -1,0 +1,44 @@
+# IDE 相关文件
+.vscode/
+*.code-workspace
+.settings/
+.project
+
+# 编译输出
+*.obj
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+build/
+debug/
+release/
+
+# MounRiver Studio 特定文件
+*.launch
+*.mrs
+
+
+# 调试文件
+*.dmp
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# 临时文件
+*.bak
+*.tmp
+*~
+
+
+# 个人配置文件
+*.user
+*.suo
