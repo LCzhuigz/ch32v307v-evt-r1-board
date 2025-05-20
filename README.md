@@ -4,8 +4,6 @@
 
 ## 目录结构
 
-- `IDE/` - MounRiver Studio IDE 开发环境安装包
-  - `MounRiver_Studio_Setup_V210.zip` - MounRiver Studio V2.10 安装程序
 - `DataSheet/` - 芯片数据手册
   - `CH32V307DS0.PDF` - CH32V307 数据手册
 - `Wch-link/` - WCH-Link 调试器相关资料
